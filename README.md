@@ -26,6 +26,7 @@ Below are the Verilog modules currently available in this repository:
 - [ ] `Modelling Styles`, .
 - [ ] `16x8 Dual Port RAM (Single Clock+Testcases, Two Clock, and with Self-Checking Testbench)`, etc.
 - [ ] `8x8 Synchronous FIFO Design (With testcases and self-checking testbench)`, etc.
+- [ ] `110100 Sequence Detector FSM Design`, etc.
 - [ ] `More coming soon...`
 
 > ✨ Feel free to contribute by improving the designs, adding testbenches, or suggesting new modules.
