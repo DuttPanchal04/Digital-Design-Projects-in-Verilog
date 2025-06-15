@@ -1,0 +1,84 @@
+$date
+	Sat Jun  7 02:44:19 2025
+$end
+
+$version
+	Synopsys VCS version U-2023.03-SP2_Full64
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 49a2c66937df482a $end
+
+
+$scope module bi_buf_tb $end
+$var reg 1 ! en $end
+$var reg 1 " a_drv $end
+$var reg 1 # b_drv $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+
+$scope module dut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 ! en $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+1$
+1"
+1%
+z#
+1!
+$end
+#5
+0"
+0$
+0%
+#10
+0!
+z"
+1#
+1%
+1$
+#15
+0#
+0%
+0$
+#20
+1!
+1"
+z#
+1$
+1%
+#25
+0"
+0$
+0%
+#30
+0!
+z"
+0#
+#40
+1!
+z#
+z$
+z%
+#45
+0!
+#50
+1!
+x"
+x$
+x%
+#55
+0!
+z"
+x#
