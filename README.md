@@ -20,7 +20,7 @@ Each folder contains the following:
 Below are the Verilog modules currently available in this repository:
 
 - [ ] `All logic gates including NOT, AND, OR, NAND, NOR, XOR, XNOR`
-- [ ] `Combinational Circuits including Half Adder, Full Adder, Multiplexers, Encoder, Decoder, Binary to Gray Conv, Gray to Binary Conv`
+- [ ] `Combinational Circuits including Half Adder, Full Adder, Multiplexers, Encoder, Decoder, Binary to Gray Conv, Gray to Binary Conv, Bidirectional Buffer, etc.`
 - [ ] `Sequential Circuits including Flip Flops (SR, JK, D, T), Synchronizer, etc`
 - [ ] `Modelling Styles`, .
 - [ ] `16x8 Dual Port RAM (Single Clock+Testcases, Two Clock, and with Self-Checking Testbench)`, etc.
