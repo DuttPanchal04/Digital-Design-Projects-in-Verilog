@@ -23,7 +23,9 @@ Below are the Verilog modules currently available in this repository:
 - [ ] `All logic gates including NOT, AND, OR, NAND, NOR, XOR, XNOR`
 - [ ] `Combinational Circuits including Half Adder, Full Adder, Multiplexers, Encoder, Decoder, Binary to Gray Conv, Gray to Binary Conv`
 - [ ] `Sequential Circuits including Flip Flops (SR, JK, D, T), Synchronizer, etc`
-- [ ] `Modelling Styles`, etc.
+- [ ] `Modelling Styles`, .
+- [ ] `16x8 Dual Port RAM (Single Clock+Testcases, Two Clock, and with Self-Checking Testbench)`, etc.
+- [ ] `8x8 Synchronous FIFO Design (With testcases and self-checking testbench)`, etc.
 - [ ] `More coming soon...`
 
 > ✨ Feel free to contribute by improving the designs, adding testbenches, or suggesting new modules.
