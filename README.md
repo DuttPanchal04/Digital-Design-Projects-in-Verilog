@@ -20,14 +20,19 @@ Each folder contains the following:
 
 Below are the Verilog modules currently available in this repository:
 
-- [ ] `<Design Name 1>`
-- [ ] `<Design Name 2>`
-- [ ] `<Design Name 3>`
-- [ ] `<Design Name 4>`
-- [ ] *(Add more as needed)*
+- [ ] `All logic gates including NOT, AND, OR, NAND, NOR, XOR, XNOR`
+- [ ] `Combinational Circuits including Half Adder, Full Adder, Multiplexers, Encoder, Decoder, Binary to Gray Conv, Gray to Binary Conv`
+- [ ] `Sequential Circuits including Flip Flops (SR, JK, D, T), Synchronizer, etc`
+- [ ] `Modelling Styles`, etc.
+- [ ] `More coming soon...`
 
 > ✨ Feel free to contribute by improving the designs, adding testbenches, or suggesting new modules.
 
 ## How to Run this Projects?
 
 - Just open EDA playground, write or copy-paste these verilog+testbench codes on EDA, and simulate it.
+
+## Contact me
+
+- [Email](dattpanchal2904@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/dattpanchal04/)
