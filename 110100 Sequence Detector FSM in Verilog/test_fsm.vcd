@@ -1,0 +1,156 @@
+$date
+	Sat Jun  7 02:40:33 2025
+$end
+
+$version
+	Synopsys VCS version U-2023.03-SP2_Full64
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 40f8e4e7d274061d $end
+
+
+$scope module tb $end
+$var reg 1 ! clk $end
+$var reg 1 " rst $end
+$var reg 1 # in $end
+$var wire 1 $ out $end
+
+$scope module dut $end
+$var reg 3 % current_state [2:0] $end
+$var reg 3 & next_state [2:0] $end
+$var wire 1 ! clk $end
+$var wire 1 " rst $end
+$var wire 1 # in $end
+$var wire 1 $ out $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+0#
+1"
+x$
+bxxx %
+bxxx &
+$end
+#5
+1!
+b000 %
+0$
+b000 &
+#10
+0!
+#12
+0"
+#15
+1!
+1#
+b001 &
+#20
+0!
+#25
+1!
+b001 %
+b010 &
+#30
+0!
+#35
+1!
+0#
+b000 &
+b010 %
+b011 &
+#40
+0!
+#45
+1!
+1#
+b010 &
+b011 %
+b100 &
+#50
+0!
+#55
+1!
+0#
+b000 &
+b100 %
+b101 &
+#60
+0!
+#65
+1!
+b101 %
+1$
+b000 &
+#70
+0!
+#75
+1!
+b000 %
+0$
+#80
+0!
+#85
+1!
+#90
+0!
+#95
+1!
+1#
+b001 &
+#100
+0!
+#105
+1!
+b001 %
+b010 &
+#110
+0!
+#115
+1!
+0#
+b000 &
+b010 %
+b011 &
+#120
+0!
+#125
+1!
+1#
+b010 &
+b011 %
+b100 &
+#130
+0!
+#135
+1!
+0#
+b000 &
+b100 %
+b101 &
+#140
+0!
+#145
+1!
+b101 %
+1$
+b000 &
+#150
+0!
+#155
+1!
+b000 %
+0$
+#160
+0!
+#165
+1!
