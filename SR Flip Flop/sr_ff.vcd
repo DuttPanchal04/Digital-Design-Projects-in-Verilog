@@ -1,0 +1,70 @@
+$date
+	Sun Jun 15 09:13:03 2025
+$end
+
+$version
+	Synopsys VCS version U-2023.03-SP2_Full64
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 d5f7d9558667b434 $end
+
+
+$scope module tb_sr $end
+$var reg 1 ! s $end
+$var reg 1 " r $end
+$var reg 1 # clk $end
+$var wire 1 $ q $end
+
+$scope module dut $end
+$var wire 1 ! s $end
+$var wire 1 " r $end
+$var wire 1 # clk $end
+$var reg 1 $ q $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0#
+x$
+0"
+0!
+$end
+#5
+1#
+1"
+0$
+#10
+0#
+#15
+1#
+#20
+0#
+#25
+1!
+0"
+1#
+1$
+#30
+0#
+#35
+1#
+#40
+0#
+#45
+1"
+1#
+x$
+#50
+0#
+#55
+1#
+#60
+0#
