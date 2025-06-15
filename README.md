@@ -13,8 +13,7 @@ This repository contains a collection of digital design projects developed in Ve
 Each folder contains the following:
 - Verilog source files (`.v`)
 - Testbenches for functional verification
-- Simulation logs (optional)
-- Screenshots or waveform outputs (if available)
+- Simulation files, etc.
 
 ## 📋 List of Digital Designs
 
@@ -33,7 +32,7 @@ Below are the Verilog modules currently available in this repository:
 
 ## How to Run this Projects?
 
-- Just open EDA playground, write or copy-paste these verilog+testbench codes on EDA, and simulate it.
+- Just open [EDA playground](https://edaplayground.com/), write or copy-paste these verilog+testbench codes on EDA, and simulate it.
 
 ## Contact me
 
