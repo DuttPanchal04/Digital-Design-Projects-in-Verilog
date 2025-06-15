@@ -1,0 +1,54 @@
+$date
+	Sun Jun 15 08:56:07 2025
+$end
+
+$version
+	Synopsys VCS version U-2023.03-SP2_Full64
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 d819f3e1f2852a08 $end
+
+
+$scope module mux_4_1_tb $end
+$var reg 1 ! i0 $end
+$var reg 1 " i1 $end
+$var reg 1 # i2 $end
+$var reg 1 $ i3 $end
+$var reg 2 % sel [1:0] $end
+$var wire 1 & y $end
+
+$scope module dut $end
+$var wire 1 ! i0 $end
+$var wire 1 " i1 $end
+$var wire 1 # i2 $end
+$var wire 1 $ i3 $end
+$var wire 2 % sel [1:0] $end
+$var reg 1 & y $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+1&
+1!
+0"
+1#
+0$
+b00 %
+$end
+#5
+b01 %
+0&
+#10
+b10 %
+1&
+#15
+b11 %
+0&
